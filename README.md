@@ -163,7 +163,7 @@ src/
 Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone git@github.com:MilenaMP/Projeto-mario-kart.git
 ```
 
 Acesse a pasta:
