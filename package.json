@@ -1,0 +1,21 @@
+{
+  "name": "mario-kart-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "game",
+    "mario-kart"
+  ],
+  "author": "Milena",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
